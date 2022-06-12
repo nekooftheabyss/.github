@@ -1,4 +1,4 @@
-![:nekooftheabyss](https://count.nekooftheabyss.moe/get/@nekooftheabyss-git)
+![:nekooftheabyss](https://count.nekooftheabyss.moe/get/@nekooftheabyss-git?theme=gelbooru)
 
 Official GitHub organization of Neko Of The Abyss.
 
