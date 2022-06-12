@@ -3,7 +3,7 @@
 Official GitHub organization of Neko Of The Abyss.
 
 ## Public Modules
-- [**Duration.js**](https://github.com/nekooftheabyss/duration.js) - Parse milliseconds into a time duration and vice versa.
+- [**Duration.js**](https://github.com/nekooftheabyss/duration.js) - Get formatted time duration.
 - [**BetterMap**](https://github.com/nekooftheabyss/bettermap) - An extension of the Map class with more Array-like features.
 - [**Lala**](https://github.com/nekooftheabyss/lala) - A collection of random text-generating functions.
 - [**Queen o' Chaos**](https://github.com/queenochaos)
